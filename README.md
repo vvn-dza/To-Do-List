@@ -12,16 +12,15 @@ A **full-stack To-Do List app** containerized using **Docker** and deployed with
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-username/docker-todo-app.git
-cd docker-todo-app
+``` git clone https://github.com/your-username/docker-todo-app.git ```
+
+```sh cd docker-todo-app sh```
+
 ### 2️⃣ Build & Start Containers
-```sh
-docker-compose up --build -d
+``` docker-compose up --build -d ```
 
 ### 3️⃣ Access the App  
 Open **[http://localhost:8080](http://localhost:8080)** in your browser.  
 
 ### 4️⃣ Stop Containers  
-```sh
-docker-compose down
+```docker-compose down```

@@ -1,13 +1,12 @@
 # Dockerized To-Do List Application
 
 ## 📌 Overview
-A **full-stack To-Do List app** containerized using **Docker** and deployed with **Docker Compose**. It includes a **Node.js backend**, **MySQL database**, and a **CI/CD pipeline** with **GitHub Actions**.
+A **full-stack To-Do List app** containerized using **Docker** and deployed with **Docker Compose**. It includes a **Node.js backend**, **MySQL database**.
 
 ## 🛠 Technologies Used
 - **Docker & Docker Compose**
 - **Node.js & Express**
 - **MySQL**
-- **GitHub Actions (CI/CD)**
 
 ## 🚀 How to Run
 
